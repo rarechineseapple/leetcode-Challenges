@@ -11,6 +11,8 @@ Each solution is categorized by problem difficulty - Easy, Medium, Hard.
 Filenames follow the format: <date_time><ProblemName>.something
 (e.g., 6_2_25_RomanToInteger.py)
 
+Sometimes problem names might be too long. I will include them in comments inside the file.
+
 ### Progress and Goals:
 
 Solve 100 problems.
