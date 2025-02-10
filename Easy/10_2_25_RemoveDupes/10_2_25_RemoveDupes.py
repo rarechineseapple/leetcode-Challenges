@@ -1,6 +1,7 @@
 class Solution(object):
     def removeDuplicates(self, nums):
         """
+        #Remove Duplicates from Sorted Array
         # takes in nums list and removes duplicates
         # returns number of unique elements
         :type nums: List[int]
