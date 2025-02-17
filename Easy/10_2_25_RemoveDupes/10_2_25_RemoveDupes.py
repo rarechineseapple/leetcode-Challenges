@@ -25,10 +25,10 @@ class Solution(object):
 
 rd = Solution()
 
-nums = [0,0,1,1,1,2,2,3,3,4] # Input array
-expectedNums = [2] # The expected answer with correct length
+nums = [0,0,1,1,1,2,2,3,3,4]
+expectedNums = [2] # expected answer with correct length
 
-k = rd.removeDuplicates(nums) # Calls your implementation
+k = rd.removeDuplicates(nums)
 print(nums)
 print(k)
 
